@@ -33,14 +33,18 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read.
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+Semantic HTML is like the skeleton of a web page. You would use labels such as <p>, <h1>, and <body> to input each portion of the web page. These labels are known as tags. What I'm referring to as each portion of a webpage is called an element. For example, an element would consist of <h1>Put Your Heading Here</h1> and that would create a heading on your web page. There is a flow to writing html just like when writing a paper. This gives structure to the web page. The flow allows the web page to run properly and creates a layout.
 
-2. Name two big differences between ```display: block;``` and ```display: inline;```.
+2. Name two big differences between ```display: block;``` and ```display: inline;```. display: block starts on a new line and takes up the whole width. display: inline displays the element as an inline element. Height and width properties will have no effect.
 
 3. What are the 4 areas of the box model?
+   content edge, padding edge, border edge, margin edge
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+   The cross axis
 
 5. Explain why git is valuable to a team of developers.
+   Git is valuable so that a team can work on the same project together and refer back to saved versions when needed
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
